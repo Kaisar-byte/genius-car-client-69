@@ -1,0 +1,128 @@
+[
+	{
+		"service_id": "01",
+		"title": "Electrical System",
+		"img": "https://i.ibb.co/vxkfxxv/1.jpg",
+		"price": "20",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis.",
+		"facilities": [
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			}
+		]
+	},
+	{
+		"service_id": "02",
+		"title": "Engine Diagnostics",
+		"img": "https://i.ibb.co/C2kvhgC/2.jpg",
+		"price": "20",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis.",
+		"facilities": [
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			}
+		]
+	},
+	{
+		"service_id": "03",
+		"title": "Auto Car Repair",
+		"img": "https://i.ibb.co/WDkb3p7/3.jpg",
+		"price": "20",
+		"description": "",
+		"facilities": [
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			}
+		]
+	},
+	{
+		"service_id": "04",
+		"title": "Electrical System",
+		"img": "https://i.ibb.co/HDhxRnj/4.jpg",
+		"price": "20",
+		"description": "",
+		"facilities": [
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			}
+		]
+	},
+	{
+		"service_id": "05",
+		"title": "Engine Diagnostics",
+		"img": "https://i.ibb.co/gyP33ZQ/5.jpg",
+		"price": "20",
+		"description": "",
+		"facilities": [
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			}
+		]
+	},
+	{
+		"service_id": "06",
+		"title": "Auto Car Repair",
+		"img": "https://i.ibb.co/tJHcwHS/6.jpg",
+		"price": "20",
+		"description": "",
+		"facilities": [
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			},
+			{
+				"name": "Instant car service",
+				"details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum cumque, nobis voluptates blanditiis quae corporis dignissimos repellendus. Repellat explicabo nihil aliquam ullam porro, minima ratione tempore optio similique, modi nobis."
+			}
+		]
+	}
+]
